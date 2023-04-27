@@ -1,2 +1,2 @@
-# Taller2y3
-taller2_3
+# Taller #2 y 3 formulario de Inicio de Sesión
+Es una página web que muestra un formulario de inicio de sesión para un sitio web llamado "CarUnity". El sitio usa HTML y CSS para mostrar elementos y usa Bootstrap para diseños e íconos. También incluye un pequeño fragmento de Java para mostrar el año actual en el pie de página. El formulario contiene campos para ingresar un nombre de usuario y contraseña, así como un botón para enviar el formulario y un enlace para registrarse.
