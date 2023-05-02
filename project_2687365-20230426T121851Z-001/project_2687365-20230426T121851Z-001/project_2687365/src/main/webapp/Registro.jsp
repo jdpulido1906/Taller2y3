@@ -11,7 +11,7 @@
     <!-- author-->
     <meta name="author" content="Nombre Autor">
     <!--Description -->
-    <meta name="description" content="Esta debe ser una informacion que aparece en el parrafo que acompaña los resultados de una busqueda en Internet.">
+    <meta name="description" content="página web de un formulario de inicio de sesión  y registro ">
     <!--Keywords-->
     <meta name="keywords" content="registro Usuario ,formulario de registro ,crear cuenta , registro en linea">
     <!-- minium responsive viewport-->
